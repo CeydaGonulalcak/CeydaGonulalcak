@@ -1,4 +1,6 @@
-https://dev.to/mishmanners/how-to-enable-github-actions-on-your-profile-readme-for-a-contribution-graph-4l66
+![image](https://github.com/CeydaGonulalcak/CeydaGonulalcak/assets/116053701/34581371-ee8e-4e02-8b6b-1845c6ff56a9)
+
+
 
 <h1 align="center">Hi 👋, I'm Ceyda Gönülalçak</h1>
 <h3 align="center">A passionate data scientist from Turkey</h3>
