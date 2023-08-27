@@ -5,9 +5,6 @@
 <h1 align="center">Hi 👋, I'm Ceyda Gönülalçak</h1>
 <h3 align="center">A passionate data scientist from Turkey</h3>
 
-- 📝 I regularly write articles on [https://medium.com/@ceydagonulalcakcg](https://medium.com/@ceydagonulalcakcg)
-
-- 💬 Ask me about **Data Science**
 
 - 📫 How to reach me **ceydagonulalcakcg@gmail.com**
 
