@@ -3,7 +3,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Ceyda Gönülalçak</h1>
-<h3 align="center">A passionate data scientist from Turkey</h3>
+<h3 align="center">A passionate data scientist </h3>
 
 
 - 📫 How to reach me **ceydagonulalcakcg@gmail.com**
